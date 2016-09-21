@@ -1,0 +1,14 @@
+{
+	"appname": "Pingvin",
+	"scope": "DevCenterWebHookAdmin FullAccess BuyerAdmin BuyerReader",
+	"clientid": "9E070697-6692-4BEB-A18E-6F277FEB5597",
+	"buyerid": "tutto_bimbi",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
